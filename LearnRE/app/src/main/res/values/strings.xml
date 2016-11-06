@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LearnRE</string>
+
+    <string name="title_activity_bai_hoc">Bài học</string>
+    <string name="title_activity_danh_sach_bai_hoc">Danh sách bài học</string>
+    <string name="title_activity_danh_sach_thao_luan">Danh sách thảo luận</string>
+    <string name="title_activity_dang_nhap">Đăng nhập</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="web_client_id">380644602652-krokco3qj4r725ecd11cj2440rqehesc.apps.googleusercontent.com</string>
+
+
+</resources>

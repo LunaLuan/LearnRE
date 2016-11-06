@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "380644602652",
+    "firebase_url": "https://learre-2c1e1.firebaseio.com",
+    "project_id": "learre-2c1e1",
+    "storage_bucket": "learre-2c1e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380644602652:android:166ec9a883ebc8a3",
+        "android_client_info": {
+          "package_name": "com.example.asd.learnre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380644602652-im9o5b366036geuh2g8if33r28j2nt01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asd.learnre",
+            "certificate_hash": "A6F5AB0D6A9CB93040600C8F992A4253F36BFD0F"
+          }
+        },
+        {
+          "client_id": "380644602652-krokco3qj4r725ecd11cj2440rqehesc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa7PmIeVxgnukC1K76l3Sm7qiFUR-r3ak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380644602652-krokco3qj4r725ecd11cj2440rqehesc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
